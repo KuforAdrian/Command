@@ -1,1 +1,1 @@
-# Command
+# Command for git command demonstration.
